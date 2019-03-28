@@ -1,5 +1,12 @@
 Hello World
+function a(){
+   echo "Hello World"
+}
+
 Hello World
 Hello World
+function b(){
+   echo "Hello World"
+}
 Hello World
 Hello World
