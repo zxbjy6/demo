@@ -10,3 +10,7 @@ function b(){
 }
 Hello World
 Hello World
+function c(){
+   echo "Hello World"
+}
+Hello World
